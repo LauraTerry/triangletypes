@@ -15,6 +15,7 @@ elif (first_angle and second_angle and third_angle) < 90:
     print("This triangle is acute")
 else:
     print("I have no idea what you did")
+input('Press ENTER to exit')
 
 
 #A right triangle has one angle of 90°
