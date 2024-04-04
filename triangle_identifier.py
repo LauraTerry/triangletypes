@@ -18,7 +18,6 @@ else:
 
 input('Press ENTER to exit')
 
-#100, 30, 50 does not work
 #A right triangle has one angle of 90°
 #A obtuse triangle has one angle of more than 90°
 #A triangle is acute if all three angles are less than 90°
